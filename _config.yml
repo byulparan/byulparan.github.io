@@ -1,11 +1,9 @@
 title: ParkSungmin
 email: byulparan@gmail.com
-description: -> Development & Technical Training
-asdfasdfsdflkasdjfla
-asdfkjaskldfjalskdfj
-asdkfjaskldfjklasdjf
-asdfjalskdjflkasdjflkasdjf
-asdfkjasdlfkjasdlkfj
+description: >- # this means to ignore newlines until "baseurl:"
+  difficult
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.  
 baseurl: "" 
 url: "https://byulparan.github.io" 
 twitter_username: jekyllrb
