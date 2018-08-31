@@ -1,11 +1,10 @@
 title: 박성민의 블로그
 email: byulparan@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # "baseurl:"
   박성민입니다. 이게 어떻게 이렇게 되는 건지 저는 모르겠어요...  
 baseurl: "" 
 url: "https://byulparan.github.io" 
-<!-- twitter_username: jekyllrb -->
-<!-- github_username:  jekyll -->
+github_username:  byulparan
 
 # Build settings
 markdown: kramdown
